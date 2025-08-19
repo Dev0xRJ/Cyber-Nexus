@@ -31,3 +31,6 @@ Integração com arquivos de dados externos.
 📦 Como executar
 
 Clone este repositório:
+git clone https://github.com/Dev0xRJ/Cyber-Nexus.git
+cd ProjetoStistema
+
